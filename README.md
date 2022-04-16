@@ -24,7 +24,7 @@
 
 
 
-### Screenshot
+### Screenshots
 
 
 ![Screenshot (817)](https://user-images.githubusercontent.com/66058183/163659907-04f5c816-5a76-4feb-9d68-91039ed92633.png)
