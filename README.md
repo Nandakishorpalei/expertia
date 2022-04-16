@@ -1,9 +1,12 @@
-# Expertia
+# Welcome Expertia 
 ---
 
-# Welcome 👋
+### System Architecture
 
----
+![sdimage1](https://user-images.githubusercontent.com/66058183/163661639-4398e14b-6e98-4e68-b36b-d80c2c1e985c.png)
+![sdimage2](https://user-images.githubusercontent.com/66058183/163661643-db5791a2-37ec-4d95-99bf-6efb8eb262d3.png)
+![sdimage3](https://user-images.githubusercontent.com/66058183/163661645-bc8ca725-0db7-4c2f-9228-f06c9a4e02fa.png)
+
 
 ## About this project: 🙌
 > This is a clone of expertia, built by me as expertia interview assignment .
@@ -21,13 +24,6 @@
 - `Express.js`
 - `mongoDB`
 - `mongoose`
-
-### System Architecture
-
-![sdimage1](https://user-images.githubusercontent.com/66058183/163661639-4398e14b-6e98-4e68-b36b-d80c2c1e985c.png)
-![sdimage2](https://user-images.githubusercontent.com/66058183/163661643-db5791a2-37ec-4d95-99bf-6efb8eb262d3.png)
-![sdimage3](https://user-images.githubusercontent.com/66058183/163661645-bc8ca725-0db7-4c2f-9228-f06c9a4e02fa.png)
-
 
 ### UI Screenshots
 
