@@ -1,0 +1,139 @@
+#LandingPageTopSection{
+    display: flex;
+    height: 100vh;
+    overflow-x: hidden;
+    width : 100vw;
+}
+.logoImg{
+    height: 5vw;
+}
+#LandingPageTopSectionLeft{
+ width: 40vw;
+}
+#LandingPageTopSectionRight{
+    background-image: url("https://i.imgur.com/IAuWbh8.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 60vw;
+    justify-self:flex-end;
+}
+#navBarDiv{
+    height:10vh;
+    width:80vw;
+    display: flex;
+    padding: 1vw 10vw 0;
+    justify-content: space-between;
+    position: absolute;
+}
+
+.navbar--right{
+    display: flex;
+    width: 33vw;
+    justify-content: space-between;
+    align-items: center;
+}
+.navbar--right .item{
+    position: relative;
+    vertical-align: middle;
+    line-height: 1;
+    text-decoration: none;
+    flex: 0 0 auto;
+    background: 0 0;
+    padding: 0.92857143em 1.14285714em;
+    text-transform: none;
+    color: rgba(0,0,0,.87);
+    font-weight: 600;
+    transition: all 0.5s;
+}
+.navbar--right .item:hover{
+  background-color: rgba(77, 9, 236, 0.187);
+  color:white;
+  border-bottom: 1px solid blue;
+}
+
+
+.landingPageTopRightImg{
+    height: 54vh;
+    width: 60%;
+    margin: auto;
+    margin-top:20vh;
+    background-color: white;
+    padding: 10px 0 10px 10px;
+}
+.speedoImageContainer{
+display:flex;
+justify-content: flex-end;
+width: 80%;
+margin-top: -13vh;
+text-align: center;
+}
+.speedo{
+    height: 20vh;
+    position: absolute;
+    margin-left: 5vw;
+}
+.expertiaScore{
+    z-index: 1;
+    margin-top:17vh;
+    padding-left: -10vw;
+    font-weight: 400;
+}
+
+.landingPageRightImgDivButtons{
+    position: absolute;
+    box-shadow: rgb(0 0 0 / 15%) 5px 4px 20px 0px;
+    font-size: 13px;
+    display: flex;
+    justify-content: center;
+    -webkit-box-align: center;
+    align-items: center;
+    font-weight: bolder;
+    color: rgb(121, 81, 249);
+    top: 5.125vw;
+    height: 35px;
+    background: rgb(249, 247, 255);
+    z-index: 15;
+    border: 2px solid rgb(249, 247, 255);
+    border-radius: 21px;
+    margin-left: 5vw;
+}
+.landingPageRightImgDivButtons--1{
+    top: 15.125vw;
+    right: 3vw;
+    min-width: 200px;
+}
+.landingPageRightImgDivButtons--2{
+    top: 18.825vw;
+    right: 3vw;
+    min-width: 200px;
+}
+.landingPageRightImgDivButtons--3{
+    top: 25.125vw;
+    min-width: 200px;
+}
+.landingPageRightImgDivButtons--4{
+    top: 30.825vw;
+    min-width: 160px;
+}
+
+
+#landingPageLeftTopContent{
+    margin-top: 20vh;
+    text-align: left;
+    padding-left: 10vw;
+}
+.landingPageLeftTopContent--middle{
+    margin-top: 3rem;
+}
+.landingPageLeftTopContent--bottom{
+    margin-top: 6rem;
+    display: flex;
+    justify-content: space-between;
+    width:35vw;
+    align-items: center;
+}
+
+
+/* https://i.imgur.com/f2fYCFM.png    logo  */
+/* https://i.imgur.com/rNPtPav.png    logo text  */
+/* https://i.imgur.com/wXvPXRz.png    right side  */

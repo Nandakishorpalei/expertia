@@ -1,0 +1,9 @@
+.scrollingImageTopDiv{
+    display: flex;
+    width: auto;
+    margin: 4vw 0;
+}
+.scrollingImageTopDiv img{
+    height: 5vh;
+    padding: 0 1rem;
+}

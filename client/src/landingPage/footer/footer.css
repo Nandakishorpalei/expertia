@@ -1,0 +1,67 @@
+#footer{
+    height: 60vh;
+    width: 100vw;
+    padding: 2vw 15vw;
+    background-color: rgb(245, 245, 245);
+}
+#footerTop{
+    display: flex;
+    justify-content: space-between;
+    width: 70vw;
+    padding-bottom: 1vw;
+    border-bottom: 1px solid black;
+}
+#footerTopLeft{
+    text-align: left;
+    width: 40vw;
+}
+.inputEmail{
+    padding: 10px 12px;
+    border: 0.6px solid lightgray;
+}
+.inputEmail:focus{
+    border: 0.6px solid rgb(108, 92, 231);
+}
+.inputEmail::placeholder{
+    color: lightgray;
+}
+#footerTopRight{
+ display: flex;
+ align-items: center;
+ justify-content: space-evenly;
+ width: 25vw;
+}
+#footerBody{
+    display: flex;
+    justify-content: space-between;
+    width: 70vw;
+    margin-top: 15vh;
+    padding-bottom: 10vh;
+}
+.footerBodyItem{
+ text-align: left;
+}
+.footerExpertiaLogo{
+    height: 10vh;
+}
+.circleDiv{
+    padding: 10px;
+    border-radius: 50%;
+}
+.footerBodyItemContent{
+    color: rgb(108, 92, 231);
+    line-height: 0;
+}
+#fixedFooter{
+    position: fixed;
+    bottom: 0;
+    height: 6vh;
+    width: 100vw;
+    margin-left: -15vw;
+    background-color: lightgray;
+    display: flex;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    z-index: 20;
+}
